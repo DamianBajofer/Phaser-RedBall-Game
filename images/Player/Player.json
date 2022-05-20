@@ -1,0 +1,11 @@
+{ 
+    
+    "Player": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 1, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   8, 47  ,  8, 7  ,  48, 20  ]
+        }
+    ]
+}
